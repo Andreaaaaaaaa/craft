@@ -1,0 +1,4 @@
+interface:
+  display_name: "Craft"
+  short_description: "统一调度 Form、Feel 与 Finish，保留完整原文与工具"
+  default_prompt: "使用 $craft，先读取总调度 AGENTS.md，再按任务执行对应原技能的完整流程。"
